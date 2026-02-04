@@ -1,0 +1,10 @@
+{
+    "name": "ArabWarriors",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/your-username/ArabWarriors",
+    "description": "The Arab Warriors faction brings 7 legendary units to TABS! From the Gun Man to the mythical Exodia, experience epic battles with unique Middle Eastern warriors. Includes a full campaign with 20 missions!",
+    "dependencies": [
+    	"BepInEx-BepInExPack_TABS-5.4.16",
+		"Grad-TGCore-1.1.0"
+    ]
+}
