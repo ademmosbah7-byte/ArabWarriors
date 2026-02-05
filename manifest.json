@@ -1,0 +1,9 @@
+{
+    "name": "ArabWarriors",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/ademmosbah7-byte/ArabWarriors.git",
+    "description": "The legendary Arab Warriors faction! 7 unique units from Gun Man to the mythical Exodia. Features a 20-mission campaign and the secret Land map!",
+    "dependencies": [
+    	"BepInEx-BepInExPack_TABS-5.4.16"
+  ]
+}
